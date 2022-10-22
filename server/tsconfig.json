@@ -1,0 +1,15 @@
+{
+  "ts-node": {
+    "files": true
+  },
+  "compilerOptions": {
+    "outDir": "dist",
+    "target": "es2021",
+    "strict": true
+  },
+  "references": [
+    {
+      "path": "../common"
+    }
+  ]
+}

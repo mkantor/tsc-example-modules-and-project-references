@@ -1,0 +1,9 @@
+{
+  "name": "example-common",
+  "version": "0.0.0",
+  "type": "module",
+  "devDependencies": {
+    "typescript": "latest"
+  },
+  "dependencies": {}
+}
